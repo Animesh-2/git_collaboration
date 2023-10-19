@@ -1,9 +1,0 @@
-TEAM NAME -> [git_collaboration]
-
-TEAM MEMBERS ->
-
-1. Animesh Singh
-2. Divyam Rauthan
-3. Pankaj Khatri
-4. Rupan Das
-5. Aman Garg
